@@ -5,8 +5,8 @@ CountryApp — консольное приложение на C для упра�
 
 ## Installation
 1. Установите SQLite и GCC.
-2. Склонируйте репозиторий: `git clone <https://github.com/fpmi-tp2025/tpmp-gr12-lab4-OzodNabiev.git>`.
-3. Перейдите в папку проекта: `cd tpmp-gr12-lab4-OzodNabiev.
+2. Склонируйте репозиторий: `git clone <https://github.com/fpmi-tp2025/tpmp-gr12-lab4-AllakovHydyr.git>`.
+3. Перейдите в папку проекта: `cd tpmp-gr12-lab4-AllakovHydyr.
 4. Скомпилируйте: `make`.
 
 ## Usage
